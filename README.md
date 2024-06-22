@@ -3,7 +3,7 @@
 The folders include codes used during the production of the manuscript.
 
 ## System Requirements
-- Windows 7 and above (not yet tested with macOS)
+- Windows 10 and above (not yet tested with macOS)
 - MATLAB R2018a and above
 
 ## Usage
