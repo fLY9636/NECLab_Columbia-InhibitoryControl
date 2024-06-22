@@ -9,10 +9,6 @@
 Performance_noCNO_DBh
 Performance_CNO_DBh
 SIMPerformance_noCNO_DBh
-
-% Performance_noCNO_Th
-% Performance_CNO_Th
-% SIMPerformance_noCNO_Th
 % 
 % Performance_noCNO_ChAT
 % Performance_CNO_ChAT
