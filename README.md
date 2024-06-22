@@ -5,8 +5,7 @@ Folders include codes and data for generating the figures in the manuscript.
 - Windows 7 and above (not yet tested with macOS)
 - MATLAB R2018a and above
 ### Usage
-- Add the entire **'utils'** folder to your MATLAB path
-- Load .mat files and run the scripts
+The entire **'utils'** folder should be added to your MATLAB path
 ### Note
 
 ## Reference
