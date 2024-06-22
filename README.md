@@ -1,10 +1,12 @@
 # Liu_et_al_2024
 ### About
-
+#### Folders include codes and data for generating the figures in the manuscript.
 ### System requirements
-
+#### - Windows 7 and above (not yet tested with macOS)
+#### - MATLAB R2018a and above
 ### Usage
-
+#### - Add the entire **'utils'** folder to your MATLAB path
+#### - Load .mat files and run the scripts
 ### Note
 
 ## Reference
