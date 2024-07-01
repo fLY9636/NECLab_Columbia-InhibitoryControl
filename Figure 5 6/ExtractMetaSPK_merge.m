@@ -1,9 +1,9 @@
 %% Load behavior files and table
-HOME = 'G:\My Drive\Response Inhibition Project\';
-LAB1 = 'F:\Backup\BMEN_9100\'; LAB2 = 'M:\My Drive\Response Inhibition Project\'; LAB3 = 'G:\My Drive\Response Inhibition Project\';
+HOME = '';
+LAB1 = ''; LAB2 = ''; LAB3 = '';
 ROOTDIR = LAB3;
-Behavior_dir = [ROOTDIR '2021-22_Attention\NP 2023-12\IHB\Behavior\']; Behavior_files = natsortfiles(filename_scan(Behavior_dir));
-% load([ROOTDIR '2021-22_Attention\NP 2023-12\MetaSPK_test_1'])
+Behavior_dir = [ROOTDIR '']; Behavior_files = natsortfiles(filename_scan(Behavior_dir));
+% load([ROOTDIR ''])
 %% Initialization
 INPUT = MetaSPK_test_1;
 COL_ID = INPUT.ID;
