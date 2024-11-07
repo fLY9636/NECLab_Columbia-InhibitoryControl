@@ -5,9 +5,11 @@ The folders include codes used during the production of the manuscript.
 ## System Requirements
 - Windows 10 and above (not yet tested with macOS)
 - MATLAB R2018a and above
+- Python -V >=3.6
 
 ## Usage
-The entire **`utils`** folder should be added to your MATLAB path.
+- For running MATLAB scripts, the entire **`utils`** folder should be added to your MATLAB path.
+- For running dPCA in Jupyter Notebooks (Fig 5 & 6), copy **`utils\myDPCA`** folder to your own directory for importation.
 
 ## NOTE
 #### This manuscript has NOT been peer-reviewed yet. Data will be available after the peer review is complete.
