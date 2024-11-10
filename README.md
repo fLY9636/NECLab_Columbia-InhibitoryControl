@@ -9,7 +9,7 @@ The folders include codes used during the production of the manuscript.
 
 ## Usage
 - For running MATLAB scripts, the entire **`utils`** folder should be added to your MATLAB path.
-- dPCA and other analyses on neural data are done in Jupyter Notebooks (Fig 5 & 6), copy **`utils\myDPCA`** folder to your own directory for importation.
+- dPCA and other analyses on neural data are done in Jupyter Notebooks (Fig 5 & 6), **`utils\myDPCA`** is a customized package, copy the folder to your own directory.
 
 ## NOTE
 #### This manuscript has NOT been peer-reviewed yet. Data will be available after the peer review is complete.
